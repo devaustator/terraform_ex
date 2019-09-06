@@ -1,0 +1,7 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaahf4d6tgcbal7cudnwghympp3o3ylufjucxfmiscz4niculb6n3oq"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaooeriotk66cyjlnmno2zxirhhociusnfttclth7hvkcc2gqi6uyq"
+fingerprint = "21:2c:da:83:c4:e6:37:65:bb:46:c9:58:8c:fe:c1:6d"
+private_key_path = "/Users/elv/.oci/oci_api_key.pem"
+private_key_password = "XXXXXXXXXXX"
+user_ocid = "ocid1.user.oc1..aaaaaaaagczbwvx4cwcadxdp6gkh5molufxncyytsz2aa4x3fiizzp44s4oa"
+region = "eu-frankfurt-1"
